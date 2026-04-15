@@ -1,0 +1,14 @@
+C:\Projects\TextCombinatorWinForms\bin\Debug\net9.0-windows\TextCombinatorWinForms.exe
+C:\Projects\TextCombinatorWinForms\bin\Debug\net9.0-windows\TextCombinatorWinForms.deps.json
+C:\Projects\TextCombinatorWinForms\bin\Debug\net9.0-windows\TextCombinatorWinForms.runtimeconfig.json
+C:\Projects\TextCombinatorWinForms\bin\Debug\net9.0-windows\TextCombinatorWinForms.dll
+C:\Projects\TextCombinatorWinForms\bin\Debug\net9.0-windows\TextCombinatorWinForms.pdb
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.AssemblyInfoInputs.cache
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.AssemblyInfo.cs
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.csproj.CoreCompileInputs.cache
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.dll
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\refint\TextCombinatorWinForms.dll
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.pdb
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\TextCombinatorWinForms.genruntimeconfig.cache
+C:\Projects\TextCombinatorWinForms\obj\Debug\net9.0-windows\ref\TextCombinatorWinForms.dll

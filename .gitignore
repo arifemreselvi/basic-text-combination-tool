@@ -1,0 +1,20 @@
+# Build outputs
+
+# User-specific
+*.user
+*.suo
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# Python cache and env
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Generated text outputs
+prompts.txt

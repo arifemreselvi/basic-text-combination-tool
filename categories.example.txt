@@ -1,0 +1,20 @@
+ART STYLE CATEGORY:
+@artist,
+watercolor style,
+cel shading,
+flat color (soft lighting),
+
+POSITIONS CATEGORY:
+portrait,
+close-up,
+full body,
+
+CHARACTER CATEGORY:
+adventurer,
+mage,
+astronaut,
+
+CLOTHES CATEGORY:
+casual outfit,
+armor,
+formal wear,

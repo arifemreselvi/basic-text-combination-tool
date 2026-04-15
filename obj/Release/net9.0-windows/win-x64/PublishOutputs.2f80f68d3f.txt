@@ -1,0 +1,2 @@
+C:\Projects\TextCombinatorWinForms\dist\win-x64\TextCombinatorWinForms.pdb
+C:\Projects\TextCombinatorWinForms\dist\win-x64\TextCombinatorWinForms.exe
